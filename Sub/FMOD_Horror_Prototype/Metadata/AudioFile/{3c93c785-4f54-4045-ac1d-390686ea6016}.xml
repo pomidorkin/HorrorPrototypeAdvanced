@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3c93c785-4f54-4045-ac1d-390686ea6016}">
+		<property name="assetPath">
+			<value>Ellen_Footsteps_Earth_Walk_02.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.35622916666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d46475b2-0a55-4068-8346-42e5297b645c}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598cc833254f42d49993c191ab3c0c58, type: 3}
+  m_Name: StageTwo
+  m_EditorClassIdentifier: 
+  currentStage: 1
+  goalType: 1
+  stageLocationType: 0
+  stageGoal:
+    stage: {fileID: 11400000}
+    requiredAmount: 0
+    currentAmount: 0
+    wasInteracted: 0
+    playerLeftTheRoom: 0
+  questText: 'Stage two: Hide from the mosnter'
